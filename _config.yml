@@ -3,12 +3,13 @@ logo: /assets/logo.jpeg
 
 description:
   <p align="center">
-  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="assets/Lakshmi Bavannarayan_Manubolu_Resume.doc">Resume</a> |
   <a href="https://www.linkedin.com/in/bavannarayan-manubolu-94465660/">LinkedIn</a> |
   <a href="https://github.com/bmanubolu">GitHub</a>
   
   <br>   
-  I am pursuing my Masters in Data Science from University of Arizona. I am currently working as a Lead QA Engineer driving Quality across products
+  I am pursuing my Masters in Data Science from University of Arizona. 
+  I am currently working as a Lead QA Engineer driving Quality across products with over 11 years of IT experience.
   <br>
   </p>
 theme: jekyll-theme-minimal
